@@ -1,2 +1,2 @@
 # WP-HTML-CSS
-Pembelajaran HTML dan CSS Dasr
+Pembelajaran HTML dan CSS Dasar
